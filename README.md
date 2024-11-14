@@ -13,10 +13,10 @@ This project is a Java-based recreation of the classic Pac-Man arcade game. It f
 
 The game uses Java Swing for the UI and `JPanel` for custom rendering, creating a grid-based map with images to represent the various elements like walls, ghosts, food, and Pac-Man.
 
-##Resources
+## Resources
 
 Ensure all necessary image files (wall.png, blueGhost.png, orangeGhost.png, redGhost.png, pinkGhost.png, and Pac-Man images) are in the same directory as the Java files or in a designated resources folder.
 
-##Game Controls
+## Game Controls
 
 Arrow Keys: Use the arrow keys to control Pac-Man’s movement around the maze.
